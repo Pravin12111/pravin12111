@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pravin Chavan</h1>
-<h3 align="center">Aspiring Data Engineer | Data Analyst | Big Data & Cloud Enthusiast</h3>
+<h3 align="center">Aspiring Data Engineer</h3>
 
 <p align="center">
 Passionate about building data pipelines, analysing data, and creating interactive dashboards using Python, SQL, Spark, AWS, and Power BI.
